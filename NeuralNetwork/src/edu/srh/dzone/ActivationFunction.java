@@ -1,3 +1,5 @@
+package edu.srh.dzone;
+
 /**
  * Neural networks activation function interface.
  */
