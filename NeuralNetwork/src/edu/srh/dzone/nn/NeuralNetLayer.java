@@ -1,4 +1,4 @@
-package edu.srh.dzone;
+package edu.srh.dzone.nn;
 
 import java.util.ArrayList;
 import java.util.List;

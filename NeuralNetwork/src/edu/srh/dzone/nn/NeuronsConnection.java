@@ -1,4 +1,4 @@
-package edu.srh.dzone;
+package edu.srh.dzone.nn;
 
 public class NeuronsConnection implements Connection {
 
